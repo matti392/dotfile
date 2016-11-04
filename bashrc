@@ -85,7 +85,7 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # some more ls aliases
-#alias ll='ls -l'
+#alias ll='ls -l'``
 #alias la='ls -A'
 #alias l='ls -CF'
 
@@ -116,4 +116,4 @@ alias fd="find"
 alias cu="cd .."
 alias las="ls -al"
 
-alias pozar="git add .; git commit -m \"nic\"; git push"
+alias smierc="git add .; git commit -m \"nic\"; git push"
